@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Drowser2430
+- 👋 Hi, I’m @Darius Rowser
 - 👀 I’m interested in ... learning all that I can 
-- 🌱 I’m currently learning ...Correlation and Regression 
+- 🌱 I’m currently learning ...Phyton for Data Scientist 
 - 💞️ I’m looking to collaborate on ...any projects (beg. here)
 - 📫 How to reach me drowser@sandiego.edu
 - 😄 Pronouns: ...he/him/his
