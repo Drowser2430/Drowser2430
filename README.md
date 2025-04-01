@@ -34,6 +34,28 @@ This project uses a simple Linear Regression model to predict future U.S. health
 
 ### 📈 Sample Output
 
+Predicted healthcare spending in 2024: $1132.14B
+Predicted healthcare spending in 2025: $1200.18B
+
+
+---
+
+### 🧠 Takeaways
+- Predictive modeling helps governments make more data-informed budgeting decisions.
+- Even simple regression models can offer value in long-term financial planning.
+- This prototype can be expanded with real-world datasets (e.g., from USAspending.gov) for broader use.
+
+---
+
+### ✅ Status
+✅ Complete – MVP working  
+
+---
+
+### 🙋‍♂️ About Me
+Built by **Darius Rowser**, a rising AI/ML Engineer with a mission to apply ethical AI in public-sector transformation.  
+🔗 [LinkedIn](https://www.linkedin.com/in/dariusrowser) | 
+
 
 <!---
 Drowser2430/Drowser2430 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
